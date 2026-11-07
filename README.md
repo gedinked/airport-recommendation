@@ -56,7 +56,7 @@
 
 <a id="flybit" name="flybit"></a>
 
-## 🚀 Flybit｜先试用，再决定是否入队
+## 🚀 Flybit｜性价比超高，IEPL，客服、交流群都很活跃
 
 ### 想体验IEPL？先带上免费的2GB
 
