@@ -65,7 +65,7 @@
 <a href="https://goflybit.com/#/register?code=Ktmw5WLk"><img src="https://capsule-render.vercel.app/api?type=cylinder&amp;color=0%3A1D4ED8%2C100%3A0891B2&amp;height=116&amp;text=%E6%B3%A8%E5%86%8C+Flybit+%C2%B7+%E8%AF%95%E7%94%A82GB++%E2%86%92&amp;fontSize=44&amp;fontColor=FFFFFF&amp;fontAlignY=50" width="380" alt="注册 Flybit · 试用2GB  →" /></a>
 
 > [!TIP]
-> **新用户可免费试用2GB，觉得好用再下单。** 注册后导入订阅，用自己的宽带和手机网络试一下常用应用；活动是否开放、领取方式与额度以会员中心为准。
+> **性价比超级高，30元/以下没有任何一个VPN机场比得过Flybit。** 注册后导入订阅，用自己的宽带和手机网络试一下常用应用；活动是否开放、领取方式与额度以会员中心为准。
 
 **🎯 选购小抄：** 日常持续使用，先比较15元128GB月付；只想留一条备用订阅，可以看36元128GB不限时包。先确认本地能用，再按流量增加预算。
 
